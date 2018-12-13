@@ -8,10 +8,11 @@ Actual:    kitchen with chef pointing at another person near the stove
 <br>Actual:    startseq jumbo jet lifting off the runway at takeoff
 <br>Predicted:  startseq british airways plane taking off at the airport
 ![000000186308](https://user-images.githubusercontent.com/30891813/49959445-956a8080-ff33-11e8-902a-8dc2de02bf8e.jpg)
+## Validation Images
+<br>
+<br>
 <br><br>Actual:    startseq black and white sign named north arizona near another smaller sign
 <br>Predicted:  startseq couple of street signs that read types of information
-## Validation Images
-
 ![000000302945](https://user-images.githubusercontent.com/30891813/49959517-c945a600-ff33-11e8-9352-b643f95e40e5.jpg)
 <br><br>Actual:    startseq boy in sports jersey holds skateboard in right hand
 <br>Predicted:  startseq there is man riding skate board
