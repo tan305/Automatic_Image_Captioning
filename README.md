@@ -10,6 +10,8 @@ Actual:    kitchen with chef pointing at another person near the stove
 ![000000186308](https://user-images.githubusercontent.com/30891813/49959445-956a8080-ff33-11e8-902a-8dc2de02bf8e.jpg)
 <br><br>Actual:    startseq black and white sign named north arizona near another smaller sign
 <br>Predicted:  startseq couple of street signs that read types of information
+## Validation Images
+
 ![000000302945](https://user-images.githubusercontent.com/30891813/49959517-c945a600-ff33-11e8-9352-b643f95e40e5.jpg)
 <br><br>Actual:    startseq boy in sports jersey holds skateboard in right hand
 <br>Predicted:  startseq there is man riding skate board
@@ -18,6 +20,6 @@ Actual:    kitchen with chef pointing at another person near the stove
 <br>Predicted:  living room filled with lots of different computer screens
 ![000000154705](https://user-images.githubusercontent.com/30891813/49959564-e8dcce80-ff33-11e8-8405-2e8abdd2a870.jpg)
 <br><br>Actual:    group of giraffes wonder around in fenced off area with other animals
-<br>Predicted:  group of giraffes walking in front of trees
+<br>Predicted:  group of giraffes walking in front of trees<br>
 ![000000528862](https://user-images.githubusercontent.com/30891813/49959578-f72aea80-ff33-11e8-85d3-5b1a0da35e11.jpg)
 
