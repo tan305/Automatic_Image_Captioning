@@ -15,7 +15,7 @@
 <br>
 <br>
 ## Validation Images
-<br>**Actual: boy in sports jersey holds skateboard in right hand&nbsp;&nbsp;&nbsp;Actual: computer sitting on top of white table with another computer
+<br>**Actual: boy in sports jersey holds skateboard in right hand&nbsp;&nbsp;Actual: computer sitting on top of white table with another computer
 <br>Predicted: there is man riding skate board&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predicted: living room filled with lots of different computer screens**
 <br>
 <img src= https://user-images.githubusercontent.com/30891813/49959552-dc587600-ff33-11e8-87d5-f63fe0e1a86c.jpg width="400" height="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= https://user-images.githubusercontent.com/30891813/49959564-e8dcce80-ff33-11e8-8405-2e8abdd2a870.jpg width="400" height="300" />
