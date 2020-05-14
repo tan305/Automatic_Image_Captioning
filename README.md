@@ -8,7 +8,7 @@
 <br><br>**Actual: black and white sign named north arizona near another smaller sign
 <br>Predicted: couple of street signs that read types of information**
 <br>
-<img src= https://user-images.githubusercontent.com/30891813/49959517-c945a600-ff33-11e8-9352-b643f95e40e5.jpg width="500" height="300" />
+<img src= https://user-images.githubusercontent.com/30891813/49959517-c945a600-ff33-11e8-9352-b643f95e40e5.jpg width="400" height="300" />
 <br>
 <br>
 <br>
@@ -18,7 +18,7 @@
 <br>**Actual: boy in sports jersey holds skateboard in right hand
 <br>Predicted: there is man riding skate board**
 <br>
-<img src= https://user-images.githubusercontent.com/30891813/49959552-dc587600-ff33-11e8-87d5-f63fe0e1a86c.jpg width="500" height="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= https://user-images.githubusercontent.com/30891813/49959564-e8dcce80-ff33-11e8-8405-2e8abdd2a870.jpg width="500" height="300" />
+<img src= https://user-images.githubusercontent.com/30891813/49959552-dc587600-ff33-11e8-87d5-f63fe0e1a86c.jpg width="400" height="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= https://user-images.githubusercontent.com/30891813/49959564-e8dcce80-ff33-11e8-8405-2e8abdd2a870.jpg width="400" height="300" />
 <br><br>**Actual:    computer sitting on top of white table with another computer
 <br>Predicted:  living room filled with lots of different computer screens**
 <br>
