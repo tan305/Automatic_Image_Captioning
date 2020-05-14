@@ -13,8 +13,9 @@
 <br>Predicted: couple of street signs that read types of information**
 <br>
 <img src= https://user-images.githubusercontent.com/30891813/49959517-c945a600-ff33-11e8-9352-b643f95e40e5.jpg width="500" height="300" />
+<br>
 ## Validation Images
-<br><br>**Actual: boy in sports jersey holds skateboard in right hand
+<br>**Actual: boy in sports jersey holds skateboard in right hand
 <br>Predicted: there is man riding skate board**
 <br>
 <img src= https://user-images.githubusercontent.com/30891813/49959552-dc587600-ff33-11e8-87d5-f63fe0e1a86c.jpg width="500" height="300" />
