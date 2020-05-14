@@ -3,7 +3,8 @@
 ## Training Images
 <br>Actual:    kitchen with chef pointing at another person near the stove
 <br>Predicted:  group of people gathered around kitchen counter
-![000000370479](https://user-images.githubusercontent.com/30891813/49959423-84ba0a80-ff33-11e8-8729-2dab72b1d581.jpg)
+<br>
+<img src= https://user-images.githubusercontent.com/30891813/49959423-84ba0a80-ff33-11e8-8729-2dab72b1d581.jpg width="200" height="200" />
 <br><br>Actual:    startseq jumbo jet lifting off the runway at takeoff
 <br>Predicted:  startseq british airways plane taking off at the airport
 ![000000186308](https://user-images.githubusercontent.com/30891813/49959445-956a8080-ff33-11e8-902a-8dc2de02bf8e.jpg)
