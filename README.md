@@ -4,7 +4,7 @@
 <br>**Actual: kitchen with chef pointing at another person near the stove&nbsp;&nbsp;&nbsp;&nbsp;Actual: jumbo jet lifting off the runway at takeoff**
 <br>**Predicted: group of people gathered around kitchen counter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predicted: british airways plane taking off at the airport**
 <br>
-<img src= https://user-images.githubusercontent.com/30891813/49959423-84ba0a80-ff33-11e8-8729-2dab72b1d581.jpg width="400" height="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= https://user-images.githubusercontent.com/30891813/49959445-956a8080-ff33-11e8-902a-8dc2de02bf8e.jpg width="400" height="300" />
+<img src= https://user-images.githubusercontent.com/30891813/49959423-84ba0a80-ff33-11e8-8729-2dab72b1d581.jpg width="400" height="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= https://user-images.githubusercontent.com/30891813/49959445-956a8080-ff33-11e8-902a-8dc2de02bf8e.jpg width="400" height="300" />
 <br><br>**Actual: black and white sign named north arizona near another smaller sign
 <br>Predicted: couple of street signs that read types of information**
 <br>
